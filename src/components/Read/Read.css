@@ -1,0 +1,43 @@
+.read {
+  background-color: rgb(30, 10, 56);
+  max-width: 50%;
+  margin: auto;
+  padding: 8px;
+  border: 5px solid rgb(196, 20, 202);
+  border-radius: 5px;
+  position: absolute;
+  top: 20%;
+  left: 27%;
+}
+
+.first {
+  color: rgb(8, 129, 129);
+}
+
+.second {
+  color: rgb(16, 146, 11);
+}
+
+#id {
+  color: rgb(236, 97, 32);
+}
+
+#name {
+  color: rgb(165, 15, 170);
+}
+
+#position {
+  color: rgb(107, 31, 207);
+}
+
+#salary {
+  color: rgb(160, 10, 10);
+}
+
+.colon {
+  color: rgb(147, 24, 196);
+}
+
+.read_btn {
+  margin: 0 2px;
+}
